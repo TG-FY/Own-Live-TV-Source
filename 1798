@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1,CCTV4K超高清   UHD-35M-50FPS - CMCC
+http://117.148.187.41/PLTV/88888888/224/3221226758/index.m3u8?icpid=88888888&amp;from=5&amp;ocs=2_117.148.187.41_80&amp;hms_devid=317,1642&amp;online=1572757284&amp;vqe=3
+#EXTINF:-1,BesTV 4K   UHD-20M-25FPS - CMCC
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1,纯享4K   UHD-18M-30FPS - CMCC
+http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1,江苏卫视   FHD-4M-25FPS - CMCC
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8
+#EXTINF:-1,湖南卫视   FHD-8M-25FPS - CMCC
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:-1,浙江卫视   FHD-8M-25FPS - CMCC
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8
+#EXTINF:-1,东方卫视   FHD-8M-25FPS - CMCC
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1,北京卫视   FHD-8M-25FPS - CMCC
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+#EXTINF:-1,深圳卫视   FHD-8M-25FPS - CMCC
+http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
+#EXTINF:-1,香港卫视   576P-1M-25FPS - ALL
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,澳门卫视   360P-0.5M-25FPS - ALL
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1,凤凰卫视中文台   HD-10M-25FPS - CMCC
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8?nsukey=jkaqtA6F3IFVWMjzfHLVZLThwOz6qAVtMfrYIMS0GBkc91tUvCUsGvWcry%2FT6KePVk%2BLSZrpjro
+#EXTINF:-1,凤凰卫视香港台   HD-10M-25FPS - CMCC
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1,凤凰卫视资讯台   HD-10M-25FPS - CMCC
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1,朝鲜中央电视台 576P-0.8M-30FPS - Proxy
+http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1,NHK华语视界-JP HD-2M-30FPS - Proxy
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,八度空间-MY FHD-3M-25FPS - Proxy
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1,NTV7-MY FHD-6M-25FHD - Proxy
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1,CNA-SG 576P-2M-25FPS - Proxy
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+#EXTINF:-1,CCTV-1   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+#EXTINF:-1,CCTV-2   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1,CCTV-3   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+#EXTINF:-1,CCTV-4   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+#EXTINF:-1,CCTV-5   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1,CCTV-5+   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+#EXTINF:-1,CCTV-6   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1,CCTV-7   FHD-8M-25FPS - CMCC
+http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1,CCTV-8   FHD-8M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+#EXTINF:-1,CCTV-9   FHD-8M-25FPS - CMCC
+http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1,CCTV-10   FHD-8M-25FPS - CMCC
+http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+#EXTINF:-1,CCTV-11   FHD-3.5M-25FPS - CMCC
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
+#EXTINF:-1,CCTV-12   FHD-8M-25FPS - CMCC
+http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+#EXTINF:-1,CCTV-13   576P-4M-25FPS - CMCC
+http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1,CCTV-14   FHD-4M-25FPS - CMCC
+http://223.110.245.170/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1,CCTV-15   FHD-3.5M-25FPS - CMCC
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1,CCTV-17   FHD-4M-25FPS - CMCC
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+#EXTINF:-1,MTV-NO   HD-4M-25FPS - Proxy
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,Jasmin TV   HD-3M-25FPS - Proxy
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,V2BEAT   HD-2M-30FPS - Proxy
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,MUSICTOP   HD-3M-25FPS - Proxy
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,M2-UA   HD-1M-25FPS - Proxy
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,VOTV-UA   FHD-4M-25FPS - Proxy
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
+#EXTINF:-1,Miami TV**   HD-3M-30FPS - Proxy
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1413790253_b2592000.m3u8
+#EXTINF:-1,Miami TV JennyLive*   HD-3M-30FPS - Proxy
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w678876060.m3u8
+#EXTINF:-1,Miami TV LATINO   HD-3M-30FPS - Proxy
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w915752423_b2592000.m3u8
+#EXTINF:-1,Red Bull TV HD-3M-30FPS - Proxy
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,FTV Midnight   FHD-4M-25FPS - Proxy
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1,FTV3 Paris   FHD-4M-25FPS - Proxy
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1,FTV9 Destination   FHD-4M-25FPS - Proxy
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1,HDFashion &amp; LifeStyle   FHD-2M-25FPS - Proxy
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,Models*   HD-2M-25FPS - Proxy
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WFC TV   FHD-3M-25FPS - Proxy
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
