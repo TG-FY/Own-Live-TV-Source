@@ -137,6 +137,8 @@ http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 #EXTINF:-1,江苏优漫卡通 576
 http://183.207.248.137/ott.js.chinamobile.com/PLTV/3/224/3221225933/index.m3u8
+#EXTINF:-1,NHK华语视界-JP   HD-2M-30FPS - Proxy
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1,Miami TV**   HD 3M 30FPS - Proxy
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1413790253_b2592000.m3u8
 #EXTINF:-1,Miami TV JennyLive*   HD 3M 30FPS - Proxy
