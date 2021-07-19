@@ -32,7 +32,7 @@ http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰香港 HD 10M
 http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 
-CCTV1 FHD 16M
+[CCTV1 FHD 16M](http://183.207.248.142/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8){target="_blank"}
 http://183.207.248.142/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
 
 CCTV2 FHD 16M
