@@ -6,19 +6,19 @@ CCTV13 FHD 4M
 http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 
 CCTV4K UHD 24M 30FPS
-http://117.148.165.105/livews-tp4k.cctv.cn/live/4K1218.stream/playlist.m3u8{target=“_blank”}
+http://117.148.165.105/livews-tp4k.cctv.cn/live/4K1218.stream/playlist.m3u8 {target=“_blank”}
 
 纯享4K UHD 18M 30FPS
-http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8{target=“_blank”}
+http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8 {target=“_blank”}
 
 SiTV欢笑剧场 UHD 12M
-http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8{target=“_blank”}
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8 {target=“_blank”}
 
 4K花园生活 UHD 24M
-http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8{target=“_blank”}
+http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8 {target=“_blank”}
 
 4K花园娱乐 UHD 24M
-http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8{target=“_blank”}
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8 {target=“_blank”}
 
 4K花园影视 UHD 24M
 http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8{target=“_blank”}
