@@ -6,7 +6,7 @@ CCTV13 FHD 4M
 http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 
 CCTV4K UHD 24M 30FPS
-http://117.148.165.105/livews-tp4k.cctv.cn/live/4K1218.stream/playlist.m3u8
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 
 纯享4K UHD 18M 30FPS
 http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
